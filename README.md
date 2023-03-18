@@ -1,6 +1,7 @@
-# Medical-Diagnosis-Bot
+# [Medical-Diagnosis-Bot](https://replit.com/@Nightey3s/Medical-Diagnosis-Bot)
 ## Medical Diagnosis Bot created in Python
- 
+[Access the online version of the code here](https://replit.com/@Nightey3s/Medical-Diagnosis-Bot)
+
 - Project Definition
   - Diagnose a user’s state of dehydration based on a short questionnaire.
     - Yes-or-no type questions
